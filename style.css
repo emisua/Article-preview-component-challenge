@@ -1,0 +1,58 @@
+/* EVERYTHING */
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY & HTML */
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #e5f8ff;
+}
+
+/* CARD */
+
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  background-color: #fff;
+  max-width: 20rem;
+  position: relative;
+  margin: 2rem auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.card_img{
+  padding-top: 56.25%;
+  width: 100%;
+  background: url("images/drawers.jpg") center center;
+  background-size: cover;
+}
+
+.card_body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-flow: column;
+  padding: 2rem;
+}
+
+.card_body h4{
+  font-size: 1.2rem;
+}
+
+
+/* ICONS */
+
+.icon path {
+  fill: red;
+}

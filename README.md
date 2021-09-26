@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://article-preview-component-challenge-six.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-challenge-98xim1mht](https://www.frontendmentor.io/solutions/article-preview-component-challenge-98xim1mht)
+- Live Site URL: [https://article-preview-component-challenge-six.vercel.app/](https://article-preview-component-challenge-six.vercel.app/)
 
 ## My process
 
